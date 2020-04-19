@@ -1,0 +1,8 @@
+D:\test-repos\test-actions\test-actions\bin\Debug\netcoreapp3.1\test-actions.deps.json
+D:\test-repos\test-actions\test-actions\bin\Debug\netcoreapp3.1\test-actions.dll
+D:\test-repos\test-actions\test-actions\bin\Debug\netcoreapp3.1\test-actions.pdb
+D:\test-repos\test-actions\test-actions\obj\Debug\netcoreapp3.1\test-actions.csproj.CoreCompileInputs.cache
+D:\test-repos\test-actions\test-actions\obj\Debug\netcoreapp3.1\test-actions.AssemblyInfoInputs.cache
+D:\test-repos\test-actions\test-actions\obj\Debug\netcoreapp3.1\test-actions.AssemblyInfo.cs
+D:\test-repos\test-actions\test-actions\obj\Debug\netcoreapp3.1\test-actions.dll
+D:\test-repos\test-actions\test-actions\obj\Debug\netcoreapp3.1\test-actions.pdb
